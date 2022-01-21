@@ -1,0 +1,9 @@
+GIT Assignment
+Create a git repository.
+Clone the repository into local space,
+Create a branch called firstBranch
+Move in branch just created
+Add some files to your branch and add them into staging area
+Commit the changes
+Push the changes onto the repository using,
+Make a pull request from firstBranch to the mainbranch.
